@@ -1,11 +1,11 @@
 {
-    "name": "dice-tray",
-    "title": "Dice Tray - An Example FVTT Module",
-    "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+    "name": "tactical",
+    "title": "Tactical - overthink your foes",
+    "description": "A module created to help you with tactical options during combat",
     "author": "Ommad",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "minimumCoreVersion": "0.5.0",
     "scripts": [
         "scripts/roller.js"
       ]
-  }
+}
